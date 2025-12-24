@@ -32,3 +32,24 @@ This project implements a cloud-based log monitoring and alerting system deploye
 -When a new ERROR entry appears, an alert is triggered.
 
 -Both scripts run in the background on an AWS EC2 instance using nohup.
+
+### 🧠 Learnings & Outcomes
+-Gained hands-on experience with AWS EC2 and Linux servers
+
+-Implemented real-time log monitoring logic
+
+-Learned how background services work in cloud environments
+
+-Improved understanding of system monitoring and alerting concepts
+
+### 🚀 Future Enhancements
+-Integrate AWS CloudWatch for centralized log monitoring
+
+-Add email or SNS-based alert notifications
+
+-Convert scripts into system services for auto-start on reboot
+
+### 👨‍💻 Author
+Anuj Dhanraj Choudhary
+
+Cloud Computing Intern | AWS & DevOps Enthusiast
